@@ -1,4 +1,4 @@
-# Family Christmas Gift Draw
+# FamXMASSelection
 
 ## What the app does
 Each person draws 2 different family members. Everyone is picked exactly twice, nobody draws themselves, and the draw needs at least 3 people.
